@@ -1,0 +1,12 @@
+{
+  "name": "finance_mobile",
+  "displayName": "finance_mobile",
+  "expo": {
+    "name": "finance_mobile",
+    "slug": "finance_mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
